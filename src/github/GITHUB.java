@@ -21,9 +21,10 @@ public class GITHUB {
          Scanner lector = new Scanner(System.in);
         System.out.println("Ingrese su nombre");
         nombre=lector.next();
-        System.out.println("Ingrese su edad");
+        System.out.println("Ingrese su edades");
         edad=lector.next();
-        
+        System.out.println("Ingrese su teléfono");
+        edad=lector.next();
         
     }
     
